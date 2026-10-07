@@ -1,0 +1,6 @@
+*.lvprojstate
+*.lvlps
+.dragon/
+*.user.*
+.DS_Store
+Thumbs.db
