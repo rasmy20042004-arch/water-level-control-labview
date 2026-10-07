@@ -1,4 +1,4 @@
-﻿# Water Level Control System - LabVIEW PID Simulation
+# Water Level Control System - LabVIEW PID Simulation
 
 A **closed-loop water-level control system** implemented in **LabVIEW** using PID control. The project demonstrates setpoint tracking, process feedback, controller tuning, simulated plant behavior, and real-time response visualization.
 
@@ -36,10 +36,10 @@ Setpoint -> PID Controller -> Plant / Water-Level Process -> Process Value
 
 ```text
 water-level-control-labview/
-â”œâ”€â”€ labview/
-â”œâ”€â”€ assets/
-â”œâ”€â”€ docs/
-â””â”€â”€ README.md
+|-- labview/
+|-- assets/
+|-- docs/
+\-- README.md
 ```
 
 ## Opening the Project
